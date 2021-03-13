@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Mauget's New Hugo Site"
+theme = "ananke"
